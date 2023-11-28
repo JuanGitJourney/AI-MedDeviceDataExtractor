@@ -5,18 +5,37 @@ import re
 import numpy as np
 
 
-def get_device_class(product_code) -> int:
+def get_classification_features(product_code) -> dict:
     classification_df = pd.read_csv('raw_files/foiclass.csv',  delimiter='|')
     device_class = classification_df[classification_df['PRODUCTCODE'] == product_code]['DEVICECLASS'].iloc[0]
+    medical_speciality = classification_df[classification_df['PRODUCTCODE'] == product_code]['MEDICALSPECIALTY'].iloc[0]
+    third_party_review = classification_df[classification_df['PRODUCTCODE'] == product_code]['THIRDPARTYFLAG'].iloc[0]
+    gmp_exempt_flag = classification_df[classification_df['PRODUCTCODE'] == product_code]['GMPEXEMPTFLAG'].iloc[0]
+    implant_flag = classification_df[classification_df['PRODUCTCODE'] == product_code]['Implant_Flag'].iloc[0]
+    life_sustain_flag = classification_df[classification_df['PRODUCTCODE'] == product_code]['Life_Sustain_support_flag'].iloc[0]
+    target_area = classification_df[classification_df['PRODUCTCODE'] == product_code]['TARGETAREA'].iloc[0]
+    technical_method = classification_df[classification_df['PRODUCTCODE'] == product_code]['TECHNICALMETHOD'].iloc[0]
+    physical_state = classification_df[classification_df['PRODUCTCODE'] == product_code]['PHYSICALSTATE'].iloc[0]
+    definition = classification_df[classification_df['PRODUCTCODE'] == product_code]['DEFINITION'].iloc[0]
 
-    return device_class
+    return {
+        'Device Class': device_class,
+        'Medical Specialty': medical_speciality,
+        'Third Party Review': third_party_review,
+        'GMP Exempt Flag': gmp_exempt_flag,
+        'Implant Flag': implant_flag,
+        'Life Sustain/Support Flag': life_sustain_flag,
+        'Target Area': target_area,
+        'Technical Method': technical_method,
+        'Physical State': physical_state,
+        'Definition': definition
+    }
 
 
 def get_study_features():
-    device_classes = []
+    device_features = []
     device_list = []
     product_codes = []
-
 
     input_csvs = ['aiml_dfs/aiml_501ks.csv', 'aiml_dfs/aiml_pmas.csv']
 
@@ -33,15 +52,25 @@ def get_study_features():
 
             for device in names_list:
                 product_code = df[df['query_id'] == device][search_term].iloc[0]
-
-                device_classes.append(get_device_class(product_code.upper()))
+                classification_features = get_classification_features(product_code.upper())
+                device_features.append(classification_features)  # Storing the entire dictionary
                 product_codes.append(product_code)
                 device_list.append(device)
 
-    print(len(device_classes))
     df = pd.DataFrame({
         'query_id': device_list,
         'product_code': product_codes,
-        'device_class': device_classes
+        'device_class': [feature['Device Class'] for feature in device_features],
+        'medical_specialty': [feature['Medical Specialty'] for feature in device_features],
+        'third_party_review': [feature['Third Party Review'] for feature in device_features],
+        'gmp_exempt_flag': [feature['GMP Exempt Flag'] for feature in device_features],
+        'implant_flag': [feature['Implant Flag'] for feature in device_features],
+        'life_sustain_flag': [feature['Life Sustain/Support Flag'] for feature in device_features],
+        'target_area': [feature['Target Area'] for feature in device_features],
+        'technical_method': [feature['Technical Method'] for feature in device_features],
+        'physical_state': [feature['Physical State'] for feature in device_features],
+        'definition': [feature['Definition'] for feature in device_features]
+
     })
-    df.to_csv('aiml_dfs/features/devices_classes.csv', index=False)
+
+    df.to_csv('aiml_dfs/features/devices_features.csv', index=False)
