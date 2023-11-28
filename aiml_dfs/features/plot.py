@@ -14,7 +14,7 @@ implant_counts = df['implant_flag'].value_counts()
 life_sustain_counts = df['life_sustain_flag'].value_counts()
 
 # Setting up the figure for multiple plots
-plt.figure(figsize=(20, 15))
+plt.figure(figsize=(20, 8))
 
 # Pie Chart for Device Class Distribution
 plt.subplot(2, 3, 1)
