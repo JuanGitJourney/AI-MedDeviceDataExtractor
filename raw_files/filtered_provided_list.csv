@@ -1,0 +1,599 @@
+Date of Final Decision,Submission Number,Device,Company,Panel (Lead),Primary Product Code
+07/27/23,K231195,Brainomix 360 Triage ICH,Brainomix Limited,Radiology,QAS
+07/26/23,K231038,Global Hypoperfusion Index (GHI) Algorithm,"Edwards Lifesciences, LLC",Cardiovascular,QNL
+07/25/23,K223473,ME-APDS™; MAGENTIQ-COLO™,Magentiq Eye LTD,Gastroenterology/Urology,QNP
+07/25/23,K230365,Sonio Detect,Sonio,Radiology,IYN
+07/25/23,K230913,ANDI,"Imeka Solutions, Inc.",Radiology,QIH
+07/24/23,K223347,UltraSight AI Guidance,UltraSight Inc,Radiology,QJU
+07/21/23,K230150,OptimMRI,"RebrAIn, SAS",Radiology,QIH
+07/21/23,K223288,"Cranial Navigation, Navigation Software Cranial, Navigation Software Craniofacial, Cranial EM System, Automatic Registration iMRI",Brainlab AG,Neurology,HAW
+07/21/23,K231173,Irregular Rhythm Notification Feature (IRNF),Apple Inc.,Cardiovascular,QDB
+07/20/23,K230039,uOmnispace,"Shanghai United Imaging Healthcare Co., Ltd.",Radiology,QIH
+07/19/23,K231157,syngo.CT Lung CAD (Version VD30),Siemens Healthcare GmbH,Radiology,OEB
+07/14/23,K223106,"Brainlab Elements Image Fusion, Contouring (4.5);Image Fusion (4.5);Fibertracking (2.0);BOLD MRI Mapping (1.0);Image Fusion Angio (1.0)",Brainlab AG,Radiology,QIH
+07/13/23,K223424,Spine Auto Views,GE Medical Systems SCS,Radiology,JAK
+07/13/23,K223426,ECHELON Synergy MRI system,FUJIFILM Healthcare Corporation,Radiology,LNH
+07/12/23,K230823,AusculThing ACC,AusculThing Oy,Cardiovascular,DQD
+07/10/23,K223724,MOZI TPS,"Manteia Technologies Co., Ltd",Radiology,MUJ
+07/07/23,K231668,Spine CAMP™ (1.1),"Medical Metrics, Inc",Radiology,QIH
+07/03/23,K222745,Axial3D Insight,Axial Medical Printing Limited,Radiology,QIH
+06/29/23,K230337,EarliPoint,"EarliTec Diagnostics, Inc.",Neurology,QPF
+06/22/23,K230497,Bladder AI (AIBV01),Exo Inc,Radiology,QIH
+06/20/23,K231459,HepaFatSmart (V2.0.0),Resonance Health Analysis Services Pty Ltd.,Radiology,LNH
+06/16/23,K223357,EyeArt v2.2.0,"Eyenuk, Inc",Ophthalmic,PIB
+06/16/23,K223646,IB Lab LAMA,IB Lab Gmbh,Radiology,QIH
+06/16/23,K223556,DeepCatch,"MEDICALIP Co., Ltd",Radiology,QIH
+06/13/23,K230112,CAC Software,"Imbio, Inc.",Radiology,JAK
+06/06/23,K223855,"FEops HEARTguideTM, FEops HEARTguideTM ALPACA",FEops NV,Radiology,QIH
+05/30/23,K223523,Sonic DL,"GE Medical Systems, LLC",Radiology,LNH
+05/25/23,K223491,"Critical Care Suite with Pneumothorax Detection AI Algorithm, Critical Care Suite 2.1, Critical Care Suite","GE Medical Systems, LLC",Radiology,QBS
+05/25/23,K230273,Saranas Early Bird Bleed Monitoring System,"Saranas, Inc.",Cardiovascular,QFJ
+05/23/23,K223504,Ceribell Status Epilepticus Monitor,"Ceribell, Inc.",Neurology,OMB
+05/23/23,K230096,Genius AI Detection 2.0 with CC-MLO Correlation,"Hologic, Inc.",Radiology,QDQ
+05/19/23,K231143,GI Genius System 100 and GI Genius System 200,"Cosmo Artificial Intelligence - AI, Ltd.",Gastroenterology/Urology,QNP
+05/19/23,K212758,Autoplaque,Cedars-Sinai Medical Center: AIM,Radiology,LLZ
+05/17/23,K222728,Radiation Planning Assistant (RPA),"University of Texas, MD Anderson Cancer Center",Radiology,MUJ
+05/11/23,K223623,SubtleMR (2.3.x),"Subtle Medical, Inc.",Radiology,LLZ
+05/10/23,K220437,Neurophet AQUA,"NEUROPHET, Inc.",Radiology,LLZ
+05/04/23,K230082,Auto Segmentation,"GE Medical Systems, LLC",Radiology,QKB
+05/04/23,K223771,Lumify Diagnostic Ultrasound System,Philips Ultrasound,Radiology,IYN
+05/02/23,K230977,SIS System,"Surgical Information Sciences, Inc.",Radiology,QIH
+05/02/23,K230292,Samsung ECG Monitor Application with Irregular Heart Rhythm Notification,"Samsung Electronics Co.,Ltd.",Cardiovascular,QDA
+04/27/23,K223212,Precision DL,GE Healthcare,Radiology,KPS
+04/27/23,K223734,ENT EM,Brainlab AG,Ear Nose & Throat,PGW
+04/26/23,K230552,MR DWI/FLAIR Measurement V1.0,Olea Medical,Radiology,LLZ
+04/26/23,K230553,"LINQ II Insertable Cardiac Monitor, CareLink SmartSync LINQ II ICM Application","Medtronic, Inc.",Cardiovascular,MXD
+04/25/23,K222676,Ceevra Reveal 3,"Ceevra, Inc.",Radiology,QIH
+04/25/23,K230223,iCAC Device,"Bunkerhill, Inc.",Radiology,JAK
+04/21/23,K223501,ViewFinder Software Version 1.1,Elaitra Ltd,Radiology,QIH
+04/21/23,K230084,HERA W10 Diagnostic Ultrasound System; HERA W9 Diagnostic Ultrasound System,"Samsung Medison CO., LTD.",Radiology,IYN
+04/20/23,K223287,Velacur,Sonic Incytes,Radiology,IYO
+04/20/23,K230807,Deep Learning Image Reconstruction,GE Healthcare Japan Corporation,Radiology,JAK
+04/19/23,K223552,"Brainlab Elements – Trajectory Planning (2.6), Elements Stereotaxy, Elements Lead Localization, Elements Trajectory Planning Cranial",Brainlab AG,Neurology,HAW
+04/19/23,K230023,ART-Plan,Therapanacea SAS,Radiology,QKB
+04/17/23,K230772,Quantib Prostate,Quantib B.V.,Radiology,LLZ
+04/14/23,K230685,AutoContour Model RADAC V3,"Radformation, Inc.",Radiology,QKB
+04/13/23,K230264,Ezra Flash,Ezra AI Inc.,Radiology,LLZ
+04/13/23,K213986,CerebralGo Plus,"Yukun (Beijing) Technology Co., Ltd",Radiology,QIH
+04/11/23,K223830,Ultrasound System 2300,BK Medical Aps,Radiology,IYN
+04/07/23,K230575,Limbus Contour,Limbus AI Inc.,Radiology,LLZ
+04/07/23,K230658,SKOUT® system,Iterative Scopes Inc.,Gastroenterology/Urology,QNP
+04/06/23,K222360,AI-Rad Companion (Cardiovascular),Siemens Medical Solutions U.S.A.,Radiology,JAK
+04/06/23,K223458,"Ingenia, Ingenia CX, Ingenia Elition, Ingenia Ambition, MR 5300 and MR 7700 MR Systems",Philips Medical Systems Nederland B.V.,Radiology,LNH
+04/06/23,K223531,"CARESCAPE Canvas 1000, CARESCAPE Canvas Smart Display, CARESCAPE Canvas D19, F2 Frame (F2-01)",GE Healthcare Finland Oy,Cardiovascular,MHX
+04/06/23,K223774,Contour ProtégéAI,MIM Software Inc.,Radiology,QKB
+04/05/23,K223630,"Reveal LINQ Insertable Cardiac Monitor, LINQ II Insertable Cardiac Monitor, AccuRhythm AI ECG Classification System","Medtronic, Inc.",Cardiovascular,MXD
+04/03/23,K223240,Annalise Enterprise CTB Triage Trauma,Annalise-AI Pty Ltd,Radiology,QAS
+03/31/23,K213272,Formus Hip,"Formus Labs, Ltd",Radiology,QIH
+03/29/23,K222312,RayStation 12A,Raysearch Laboratories AB (Publ),Radiology,MUJ
+03/28/23,K222174,RadioLens v1.0,Synapsica,Radiology,QIH
+03/28/23,K222179,Annalise Enterprise CXR Triage Trauma,Annalise-AI Pty Ltd,Radiology,QFM
+03/28/23,K222268,Annalise Enterprise CXR Triage Trauma,Annalise-AI Pty Ltd,Radiology,QFM
+03/28/23,K223343,MAGNETOM Amira; MAGNETOM Sempra,Siemens Medical Solutions USA Inc.,Radiology,LNH
+03/28/23,K221921,DTX Studio Clinic 3.0,Nobel Biocare AB,Radiology,MYN
+03/27/23,K222746,Overjet Caries Assist,"Overjet, Inc.",Radiology,MYN
+03/22/23,K222036,MPXA-2000,"Medipixel, Inc.",Radiology,QIH
+03/21/23,K223490,FlightPlan for Embolization,GE Medical Systems SCS,Radiology,LLZ
+03/17/23,K223073,AIio,"AIio, Inc.",Gastroenterology/Urology,DRG
+03/17/23,K223443,Viz AAA,"Viz.ai, Inc.",Radiology,QFM
+03/17/23,K221772,NeuroRPM,New Touch Digital Inc.,Neurology,GYD
+03/10/23,K223325,uMI Panorama,"Shanghai United Imaging Healthcare Co., Ltd.",Radiology,KPS
+03/09/23,K223514,Spectral Bone Marrow,"GE Medical Systems, LLC",Radiology,JAK
+03/09/23,K221706,AccuContour,"Manteia Technologies Co., Ltd.",Radiology,QKB
+03/07/23,K223726,Aquilion Precision (TSX-304A/4) V10.14 with AiCE,Canon Medical Systems Corporation,Radiology,JAK
+03/03/23,K222819,Aquilion Serve (TSX-307A/1) V1.2 with AiCE-i,Canon Medical Systems Corporation,Radiology,JAK
+03/02/23,K222176,BoneView,Gleamer,Radiology,QBS
+03/02/23,K222884,Rapid NCCT Stroke,iSchemaView Inc.,Radiology,QAS
+03/01/23,K221680,Xeleris V Processing and Review System,GE Healthcare,Radiology,LLZ
+02/24/23,K221592,AVIEW Lung Nodule CAD,"Coreline Soft Co., Ltd.",Radiology,LLZ
+02/23/23,K222579,Belun Sleep System BLS-10,Belun Technology Company Limited,Anesthesiology,MNR
+02/23/23,K221564,Brainomix 360 e-ASPECTS,Brainomix Limited,Radiology,POK
+02/22/23,K230197,BoneMRI v1.6,MRIguidance B.V,Radiology,QIH
+02/22/23,K230208,Swoop® Portable MR Imaging System™,"Hyperfine, Inc.",Radiology,LNH
+02/16/23,K222755,uMR 680,"Shanghai United Imaging Intelligence Co., Ltd.",Radiology,LNH
+02/16/23,K223028,uCT ATLAS Astound with uWS-CT-Dual Energy Analysis,"Shanghai United Imaging Healthcare Co., Ltd.",Radiology,JAK
+02/15/23,K222389,ZEUS System,"iRhythm Technologies, Inc.",Cardiovascular,DQK
+02/13/23,K223387,"V8 Diagnostic Ultrasound System, V7 Diagnostic Ultrasound System","Samsung Medison Co., Ltd.",Radiology,IYN
+02/06/23,K223296,Videa Perio Assist,"VideaHealth, Inc",Radiology,QIH
+02/02/23,K222803,Oncospace,"Oncospace, Inc.",Radiology,MUJ
+02/01/23,K223396,Rapid RV/LV,iSchemaView Inc.,Radiology,QIH
+02/01/23,K230020,BriefCase,"Aidoc Medical, Ltd.",Radiology,QFM
+02/01/23,K222970,LVivo IQS,DiA Imaging Analysis Ltd.,Radiology,QIH
+01/27/23,K221868,QOCA image Smart CXR Image Processing System,Quanta Computer Inc.,Radiology,QFM
+01/23/23,K222406,Clarius AI,Clarius Mobile Health Corp.,Radiology,QIH
+01/21/23,K223516,VX1+,Volta Medical,Cardiovascular,DQK
+01/18/23,K222593,TruPlan Computed Tomography (CT) Imaging Software,Circle Cardiovascular Imaging Inc.,Radiology,LLZ
+01/13/23,K223502,MR Diffusion Perfusion Mismatch V1.0,Olea Medical,Radiology,LLZ
+01/12/23,K222458,AIBOLIT 3D+,"AIbolit Technologies, LLC",Radiology,LLZ
+12/23/22,K214036,AVIEW,"Coreline Soft Co., Ltd.",Radiology,QIH
+12/23/22,K223442,MR 5300 and MR 7700 R11 MR Systems,Philips Medical Systems Nederlands B.V.,Radiology,LNH
+12/16/22,K220928,Overjet Calculus Assist,"Overjet, Inc.",Radiology,MYN
+12/16/22,K222275,Saige-Density,"DeepHealth, Inc.",Radiology,QIH
+12/16/22,K223268,BrainInsight,"Hyperfine, Inc.",Radiology,QIH
+12/05/22,K222692,BriefCase,"Aidoc Medical, Ltd.",Radiology,QFM
+11/22/22,K221624,Avenda Health AI Prostate Cancer Planning Software,"Avenda Health, Inc.",Radiology,POK
+11/22/22,K221716,CINA,AVICENNA.AI,Radiology,QAS
+11/21/22,K223032,SIS System (Version 5.6.0),"Surgical Information Sciences, Inc.",Radiology,QIH
+11/18/22,K221330,BriefCase,"Aidoc Medical, Ltd.",Radiology,QAS
+11/16/22,K221762,BoneMRI v1.4,MRlguidance B.V.,Radiology,QIH
+11/14/22,K222428,Syngo Dynamics (Version VA40F),"Siemens Medical Solutions USA, Inc.",Radiology,QIH
+11/10/22,K221183,AEYE-DS,"AEYE Health, Inc.",Ophthalmic,PIB
+11/08/22,K221552,EFAI ChestSuite XR Pneumothorax Assessment System,"Ever Fortune.AI Co., Ltd.",Radiology,QFM
+10/27/22,K220332,uMR Omega with uWS-MR-MRS,"Shanghai United Imaging Healthcare Co., Ltd.",Radiology,LNH
+10/25/22,K222070,EndoNaut,Therenva SAS,Radiology,LLZ
+10/21/22,K223042,Viz LVO ContaCT,"Viz.Ai, Inc.",Radiology,QAS
+10/20/22,K222361,AI-Rad Companion (Musculoskeletal),"Siemens Medical Solutions USA, Inc.",Radiology,JAK
+10/18/22,K221632,Spine CAMP™,"Medical Metrics, Inc.",Radiology,QIH
+10/14/22,K221305,AI-Rad Companion Organs RT,"Siemens Medical Solutions USA, Inc",Radiology,QKB
+10/14/22,K213857,HeartFlow Analysis,"HeartFlow, Inc.",Cardiovascular,PJA
+10/07/22,K220709,BriefCase,"Aidoc Medical, Ltd.",Radiology,QAS
+10/06/22,K221449,Genius AI Detection 2.0,"Hologic, Inc.",Radiology,QDQ
+10/05/22,K221892,VISIONAIR,PacificMD Biotech Llc,Ear Nose & Throat,BXQ
+09/30/22,K211611,QIR Suite,CASIS Cardiac Simulation & Imaging Software,Radiology,QIH
+09/29/22,K220080,CogNet QmTRIAGE,"MedCognetics, Inc.",Radiology,QFM
+09/28/22,K222329,BriefCase,"Aidoc Medical, Ltd.",Radiology,QAS
+09/27/22,K221738,NS-HGlio,Neosoma Inc.,Radiology,QIH
+09/21/22,K221179,SomnoMetry,Neumetry Medical Inc,Neurology,OLZ
+09/20/22,K213353,Aorta-CAD,"Imagen Technologies, Inc.",Radiology,MYN
+09/12/22,K220986,Aquilion Precision (TSX-304A/4) V10.10 with AiCE,Canon Medical Systems Corporation,Radiology,JAK
+09/12/22,K221456,Rapid ICH,iSchemaView Inc.,Radiology,QAS
+09/08/22,K222076,EFAI ChestSuite XR Pleural Effusion Assessment System,"Ever Fortune.AI Co., Ltd.",Radiology,QFM
+09/07/22,K220783,syngo.via RT Image Suite,Siemens Medical Solutions USA Inc.,Radiology,MUJ
+09/06/22,K213960,LiverMultiScan v5 (LMSv5),Perspectum,Radiology,LNH
+09/01/22,K221241,DrAid for Radiology v1,VinBrain Joint Stock Company,Radiology,QFM
+08/29/22,K221100,Viz RV/LV,"Viz.Ai, Inc.",Radiology,QIH
+08/26/22,K222277,BriefCase,"Aidoc Medical, Ltd.",Radiology,QAS
+08/25/22,K221962,LINQ II Insertable Cardiac Monitor,"Medtronic, Inc.",Cardiovascular,MXD
+08/24/22,K220598,AutoContour Model RADAC V2,"Radformation, Inc.",Radiology,QKB
+08/22/22,K221599,HS40 Diagnostic Ultrasound System,"Samsung Medison Co., Ltd.",Radiology,IYN
+08/19/22,K222172,MI View&GO,"Siemens Medical Solutions USA, Inc.",Radiology,QIH
+08/12/22,K213686,SKOUT Software,Iterative Scopes Inc,Gastroenterology/Urology,QNP
+08/11/22,K213713,AI-Rad Companion (Pulmonary),Siemens Healthcare GmBh,Radiology,JAK
+08/08/22,K213645,ClearPoint Maestro Brain Model,"ClearPoint Neuro, Inc.",Radiology,QIH
+08/03/22,K221347,Transpara 1.7.2,ScreenPoint Medical B.V.,Radiology,QKB
+08/03/22,K221432,Customize,3D-Side SA,Radiology,QIH
+07/29/22,K213760,ABMD Software,HeartLung Corporation,Radiology,KGI
+07/29/22,K220961,Deep Learning Image Reconstruction,GE Healthcare Japan Corporation,Radiology,JAK
+07/28/22,K213998,cvi42 Auto Imaging Software Application,Circle Cardiovascular Imaging Inc,Radiology,QIH
+07/28/22,K221923,Swoop Portable MR Imaging System,"Hyperfine, Inc.",Radiology,LNH
+07/27/22,K210822,DeepRhythmAI,Medicalgorithmics S.A.,Cardiovascular,DQK
+07/25/22,K220439,Viz SDH,"Viz.ai, Inc.",Radiology,QAS
+07/22/22,K220624,AI4CMR v1.0,AI4MedImaging Medical Solutions S.A.,Radiology,LLZ
+07/22/22,K220882,"Vivid E80, Vivid E90, Vivid E95",GE Medical Systems Ultrasound and,Radiology,IYN
+07/22/22,K220940,"EchoPAC Software Only, EchoPAC Plug-in","GE Medical Systems Ultrasound and Primary Care Diagnostics,",Radiology,QIH
+07/20/22,K220956,Libby Echo:Prio,"Dyad Medical, Inc",Radiology,QIH
+07/19/22,K213357,"Study Watch with Irregular Pulse Monitor (Home), Study Watch with Irregular Pulse Monitor",Verily Life Sciences LLC,Cardiovascular,DXH
+07/19/22,K213409,ZEUS System (Zio Watch),"iRhythm Technologies, Inc.",Cardiovascular,DQK
+07/19/22,K220815,BrainInsight,"Hyperfine, Inc.",Radiology,QIH
+07/18/22,K221147,"Vivid T8, Vivid T9","GE Medical Systems Ultrasound and Primary Care Diagnostics,",Radiology,IYN
+07/18/22,K221148,Vivid iq,GE Medical Systems Ultrasound & Primary Care Diagnostics LLC,Radiology,IYN
+07/15/22,K220619,"Vivid S60N, Vivid S70N","GE Medical Systems Ultrasound and Primary Care Diagnostics,",Radiology,IYN
+07/13/22,K221727,syngo.CT Extended Functionality,"Siemens Medical Solutions USA, Inc.",Radiology,JAK
+07/08/22,K212783,ProstatID,"ScanMed, LLC",Radiology,QDQ
+07/06/22,K210069,Minuteful - kidney test,Healthy.io Ltd.,Clinical Chemistry,JIR
+06/29/22,K213794,Eko Murmur Analysis Software (EMAS),"Eko Devices, Inc.",Cardiovascular,DQD
+06/29/22,K220975,"V8 Diagnostic Ultrasound System, V7 Diagnostic Ultrasound System","Samsung Medison Co., Ltd.",Radiology,IYN
+06/27/22,K220848,Venue Fit,GE Medical Systems,Radiology,IYN
+06/27/22,K220851,Venue,GE Medical Systems,Radiology,IYN
+06/23/22,K220497,CoLumbo,Smart Soft Healthcare AD,Radiology,QIH
+06/21/22,K220800,Venue Go,GE Medical Systems Ultrasound and Primary Care Diagnostics,Radiology,IYN
+06/17/22,K213037,IDx-DR v2.3,Digital Diagnostics Inc.,Ophthalmic,PIB
+06/17/22,K220813,ART-PLAN,TheraPanacea,Radiology,QKB
+06/16/22,K213504,"Aquilion ONE (TSX-306A/3) V10.12 with Spectral Imaging System, Vitrea Software Package, VSTP-001A",Canon Medical Systems Corporation,Radiology,JAK
+06/10/22,K221393,Swoop Portable MR Imaging System,"Hyperfine, Inc.",Radiology,LNH
+06/08/22,K213717,AIR Recon DL,"GE Medical Systems,LLC (GE Healthcare)",Radiology,LNH
+06/08/22,K213882,EarliPoint System,"EarliTec Diagnostics, Inc.",Neurology,QPF
+06/06/22,K220358,"Voluson Expert 22, Voluson Expert 20, Voluson Expert 18","GE Medical Systems Ultrasound and Primary Care Diagnostics,",Radiology,IYN
+06/03/22,K213971,Atrial Fibrillation History Feature,Apple Inc.,Cardiovascular,QDB
+06/03/22,K221314,BriefCase,"Aidoc Medical, Ltd.",Radiology,QAS
+06/02/22,K220164,Rayvolve,AZmed SAS,Radiology,QBS
+05/31/22,K220766,eMurmur Heart AI,CSD Labs GmbH,Cardiovascular,DQD
+05/25/22,K220416,SwiftMR,AIRS Medical Inc.,Radiology,LLZ
+05/17/22,K220499,Rapid PE Triage and Notification (PETN),iSchemaView Inc.,Radiology,QAS
+05/17/22,K221219,syngo.CT CaScoring,"Siemens Medical Solutions USA, Inc.",Radiology,JAK
+05/17/22,K221240,BriefCase,"Aidoc Medical, Ltd.",Radiology,QAS
+05/16/22,K213583,"Achieva, Ingenia, Ingenia CX, Ingenia Elition and Ingenia Ambition MR Systems",Philips Medical Systems Nederland B.V.,Radiology,LNH
+05/13/22,K221106,Quantib Prostate,Quantib BV,Radiology,LLZ
+05/12/22,K220105,Saige-Dx,"DeepHealth, Inc.",Radiology,QDQ
+05/11/22,K220446,Versana Balance,"GE Medical Systems Ultrasound and Primary Care Diagnostics,",Radiology,IYN
+05/10/22,K212519,Overjet Caries Assist,"Overjet, Inc.",Radiology,MYN
+05/06/22,K211966,Segment 3DPrint,Medviso AB,Radiology,LLZ
+05/03/22,K212915,MVision AI Segmentation,MVision AI,Radiology,QKB
+05/03/22,K220013,X100HT with Slide Loader with Full Field Peripheral Blood Smear (PBS) Application,Scopio Labs Ltd.,Hematology,JOY
+04/29/22,K220590,aPROMISE X,EXINI Diagnostics AB,Radiology,LLZ
+04/29/22,K220939,MAGNETOM Lumina and MAGNETOM Vida Fit with syngo MR XA50A,Siemens Medical Solutions USA Inc.,Radiology,LNH
+04/28/22,K220264,EFAI RTSuite CT HN-Segmentation System,"Ever Fortune.AI Co., Ltd.",Radiology,QKB
+04/27/22,K212441,Philips Incisive CT,"Philips Healthcare (Suzhou) Co., Ltd.",Radiology,JAK
+04/26/22,K212662,AliveCor QT Service,"AliveCor, Inc.",Cardiovascular,DQK
+04/26/22,K213886,BriefCase,"Aidoc Medical, Ltd.",Radiology,QAS
+04/22/22,K213944,HealthOST,NanoxAI Ltd.,Radiology,JAK
+04/21/22,K213795,Videa Caries Assist,"VideaHealth, Inc",Radiology,MYN
+04/15/22,K213706,AI-Rad Companion Brain MR,Siemens Healthcare GmBh,Radiology,QIH
+04/15/22,K220141,RayStation 11B,RaySearch Laboratories AB (publ),Radiology,MUJ
+04/08/22,K212274,INT Contour,Carina Medical LLC,Radiology,MUJ
+04/08/22,K220192,"Vantage Galan 3T, MRT-3020, V8.0 with AiCE Reconstruction Processing Unit for MR",Canon Medical Systems Corporation,Radiology,LNH
+04/06/22,K203783,ClariPulmo,ClariPi Inc.,Radiology,LLZ
+04/05/22,K214081,MRCAT Head & Neck,Philips Oy,Radiology,MUJ
+04/04/22,K212624,EFAI Intelligent Cardiothoracic Ratio (iCTR) Assessment System,"Ever Fortune. AI Co., Ltd.",Radiology,QIH
+04/01/22,K213657,DEEPVESSEL FFR,KeyaMed NA Inc.,Cardiovascular,PJA
+03/22/22,K212960,"Aplio a550, Aplio a450, and Aplio a, Diagnostic Ultrasound System, Software V6.5",Canon Medical Systems Corporation,Radiology,IYN
+03/21/22,K213721,BriefCase,"Aidoc Medical, Ltd.",Radiology,QAS
+03/16/22,K213779,Customize,3D-Side SA,Radiology,QIH
+03/14/22,K203744,Arterys MICA,Arterys Inc.,Radiology,QIH
+03/14/22,K214043,BriefCase,"Aidoc Medical, Ltd.",Radiology,QFM
+03/11/22,K213725,CardIQ Suite,GE Medical Systems SCS,Radiology,JAK
+03/10/22,K213566,ClearRead Xray Pneumothorax,"Riverain Technologies, Inc.",Radiology,QFM
+03/04/22,K210365,Second Opinion,Pearl Inc.,Radiology,MYN
+03/01/22,K212365,BoneView,Gleamer,Radiology,QBS
+02/25/22,K213693,MAGNETOM Vida with syngo MR XA50A,"Siemens Medical Solutions USA, Inc.",Radiology,LNH
+02/24/22,K213941,Annalise Enterprise CXR Triage Pneumothorax,Annalise-AI,Radiology,QFM
+02/18/22,K213319,"Viz ANEURYSM, Viz ANX","Viz.ai, Inc.",Radiology,QFM
+02/18/22,K213999,Deep Learning Image Reconstruction,GE Medical Systems,Radiology,JAK
+02/08/22,K213165,Rapid,iSchema View Inc.,Radiology,LLZ
+02/04/22,K212654,"Micro C Medical Imaging System, M01","OXOS Medical, Inc.",Radiology,IZL
+02/04/22,K213938,Revolution Ascend,GE Healthcare Japan Corporation,Radiology,JAK
+02/03/22,K213976,Contour ProtegeAI,MIM Software Inc.,Radiology,QKB
+01/28/22,K203260,syngo.CT Brain Hemorrhage,"Siemens Medical Solutions USA, Inc.",Radiology,QAS
+01/24/22,K212333,"Aplio i900/i800/i700 Diagnostic Ultrasound System, Software V6.5",Canon Medical Systems Corporation,Radiology,IYN
+01/20/22,K214019,syngo.CT Extended Functionality,"Siemens Medical Solutions USA, Inc.",Radiology,JAK
+01/19/22,K210747,Caption Interpretation Automated Ejection Fraction Software,Caption Health,Radiology,QIH
+01/19/22,K212012,Follicle Clarity,Cycle Clarity,Radiology,QIH
+01/14/22,K210760,Precise Image,"Philips Medical Systems Nederland, B.V.",Radiology,JAK
+01/14/22,K213737,Quantib ND,Quantib B.V.,Radiology,LLZ
+01/14/22,K213307,Eclipse II with Smart Noise Cancellation,Carestream Health Inc.,Radiology,MQB
+01/12/22,K212005,UNiD Spine Analyzer,"MEDICREA International, Inc.",Radiology,LLZ
+01/07/22,K211443,AIBOLIT 3D+,"AIbolit Technologies, LLC",Radiology,LLZ
+01/06/22,K213544,TOMTEC-ARENA,TOMTEC Imaging Systems GmbH,Radiology,QIH
+12/29/21,K213776,LiverSmart,Resonance Health Analysis Services Pty Ltd,Radiology,PCS
+12/22/21,K202404,BoneMRI,MRIguidance B.V,Radiology,QIH
+12/21/21,K210670,BU-CAD,TaiHao Medical Inc.,Radiology,QDQ
+12/21/21,K212690,qXR-BT,Qure.ai Technologies,Radiology,QIH
+12/20/21,K213275,EchoGo Core (2.0),Ultromics Limited,Radiology,QIH
+12/16/21,K212616,Koios DS,"Koios Medical, Inc.",Radiology,POK
+12/16/21,K213628,VBrain,Vysioneer Inc.,Radiology,QKB
+12/15/21,K211803,HealthPPT,Zebra Medical Vision Ltd.,Radiology,QFM
+12/15/21,K213155,RT-Mind-AI,"MedMind Technology Co., Ltd.",Radiology,QKB
+12/09/21,K212466,LVivo Seamless V2.0,DiA Imaging Analysis Ltd,Radiology,QIH
+12/06/21,K213096,Al-Rad Companion (Pulmonary),"Siemens Medical Solutions USA, Inc.",Radiology,JAK
+12/01/21,K213305,Vantage Fortian 1.5T,Canon Medical Systems Corporation,Radiology,LNH
+11/26/21,K211541,MammoScreen 2.0,Therapixel,Radiology,QDQ
+11/19/21,K211326,EndoScreener,"Chengdu Wision Medical Device Co., LTD.",Gastroenterology & Urology,QNP
+11/19/21,K210831,OnQ Neuro,"CorTechs Labs, Inc.",Radiology,QIH
+11/17/21,K211678,Lunit INSIGHT MMG,Lunit Inc.,Radiology,QDQ
+11/17/21,K212456,Swoop Point-of-Care Magnetic Resonance Imaging (POC MRI) Scanner System,"Hyperfine, Inc.",Radiology,LNH
+11/17/21,K212336,Soteria.AI,"Omega Medical Imaging, LLC",Radiology,OWB
+11/16/21,K212265,"TEX20/TEX20 Pro/TEX20S/TEX20T/TEX20 Exp/TEX20 Elite Diagnostic Ultrasound System, TEX10/ TEX10 Pro/TEX10S/TEX10T/TEX10 Exp/TEX10 Elite/TE X/TE X Lite Diagnostic Ultrasound System","Shenzhen Mindray Bio-Medical Electronics Co.,LTD",Radiology,IYN
+11/15/21,K213436,Clarius Ultrasound Scanner,Clarius Mobile Health Corp.,Radiology,IYN
+11/10/21,K211733,Lunit INSIGHT CXR Triage,Lunit Inc.,Radiology,QFM
+11/03/21,K210543,IM007,"Implicity, Inc.",Cardiovascular,DQK
+10/29/21,K211161,Critical Care Suite with Endotracheal Tube Positing AI algorithm,"GE Medical Systems, LLC",Radiology,QIH
+10/25/21,K212218,Advanced Algorithms for Treatment Management Applications (AATMA),Elekta Solutions AB,Radiology,QKB
+10/22/21,K210807,FlightPlan for Liver,GE Medical Systems SCS,Radiology,LLZ
+10/22/21,K212516,IRNF App,Apple Inc.,Cardiovascular,QDB
+10/20/21,K210632,Contour ProtegeAI,MIM Software Inc.,Radiology,QKB
+10/14/21,K210999,SwiftMR,AIRS Medical Inc.,Radiology,LLZ
+10/14/21,K212261,StrokeSENS LVO,"Circle Neurovascular Imaging, Inc",Radiology,QAS
+10/12/21,K212116,VBrain-OAR,Vysioneer Inc.,Radiology,QKB
+09/28/21,K211964,SubtlePET,"Subtle Medical, Inc.",Radiology,KPS
+09/17/21,K212067,Deep Learning Image Reconstruction,GE Healthcare Japan Corporation,Radiology,JAK
+09/17/21,K212269,Intelligent NR,Canon Inc.,Radiology,MQB
+09/15/21,K210085,HealthCCSng,Zebra Medical Vision Ltd.,Radiology,JAK
+09/10/21,K211828,Aquilion Exceed LB,Canon Medical Systems Corporation,Radiology,JAK
+09/10/21,K210438,Versana Premier,GE Medical Systems Ultrasound And Primary Care Diagnostics,Radiology,IYN
+09/10/21,K203785,ClariSIGMAM,ClariPI Inc.,Radiology,QIH
+09/09/21,K211824,"HERA W9, HERA W10 Diagnostic Ultrasound System","Samsung Medison Co., Ltd.",Radiology,IYN
+09/08/21,K203555,AmCAD-UT,AmCad BioMed Corporation,Radiology,QIH
+09/08/21,K211597,"EPIQ Series Diagnostic Ultrasound System, Affiniti Series Diagnostic Ultrasound System",Philips Medical Systems,Radiology,IYN
+09/08/21,K211945,V8 Diagnostic Ultrasound System,"Samsung Medison CO., LTD.",Radiology,IYN
+09/02/21,K211881,AI Segmentation Varian,"Medical Systems, Inc.",Radiology,MUJ
+08/31/21,K201560,Auto Lung Nodule Detection,"Samsung Electronics Co.,Ltd.",Radiology,MYN
+08/31/21,K212383,EndoNaut,Therenva SAS,Radiology,OWB
+08/27/21,K203696,RBknee,Radiobotics ApS,Radiology,LLZ
+08/20/21,K211846,Discovery MI Gen2,"GE Medical Systems, LLC.",Radiology,KPS
+08/16/21,K212230,TruSPECT Radiological Image Processing Station,Spectrum Dynamics Medical Ltd,Radiology,LLZ
+08/12/21,K211179,InferRead CT Stroke.AI,"Infervision Medical Technology Co., Ltd.",Radiology,QAS
+08/11/21,K203448,uCT ATLAS with uWS-CT-Dual Energy Analysis,"Shanghai United Imaging Healthcare Co., Ltd.",Radiology,JAK
+08/06/21,K211764,Vereos PET/CT,Philips Medical Systems Nederland B.V.,Radiology,KPS
+08/06/21,K212100,Kosmos,"EchoNous, Inc.",Radiology,IYN
+08/02/21,K211431,breastscape v1.0,Olea Medical,Radiology,QIH
+07/30/21,K211222,qER-Quant,Qure.ai Technologies,Radiology,QIH
+07/30/21,K211379,syngo.via RT Image Suite,Siemens Medical Solutions USA Inc.,Radiology,MUJ
+07/27/21,K210791,Us2.v1,eko.ai Pte. Ltd. d/b/a Us2.ai,Radiology,QIH
+07/27/21,K211655,aPROMISE,EXINI Diagnostics AB,Radiology,LLZ
+07/27/21,K212074,ClariCT.AI,ClariPi Inc.,Radiology,LLZ
+07/27/21,K211279,Volpara Imaging Software,Volpara Health Technologies Limited,Radiology,LLZ
+07/23/21,K211951,GI Genius,Cosmo Artificial Intelligence - AI Ltd,Gastroenterology & Urology,QNP
+07/20/21,K210666,Chest-CAD,"Imagen Technologies, Inc",Radiology,MYN
+07/20/21,K210719,Change Healthcare Anatomical AI,Change Healthcare Canada Company,Radiology,QIH
+07/12/21,K211506,PowerLook Density Assessment Software V4.0,ICAD Inc.,Radiology,QIH
+07/08/21,K211788,HALO,Nico.Lab B.V.,Radiology,QAS
+07/01/21,K210611,MAGNETOM Free.Max,"Siemens Medical Solutions USA, Inc.",Radiology,LNH
+06/29/21,K210645,RayStation 10.1,RaySearch Laboratories AB (publ),Radiology,MUJ
+06/17/21,K203514,Precise Position,"Philips Healthcare (Suzhou) Co., Ltd.",Radiology,JAK
+06/16/21,K202718,Qmenta Care Platform Family,"Mint Labs, Inc., D/B/A. QMENTA",Radiology,LLZ
+06/16/21,K210034,EnsoSleep,"EnsoData, Inc.",Neurology,OLZ
+06/11/21,K210484,"LINQ II Insertable Cardiac Monitor, Zelda AI ECG Classification System","Medtronic, Inc.",Cardiovascular,MXD
+06/10/21,K203629,IDx-DR,Digital Diagnostics Inc.,Ophthalmic,PIB
+06/10/21,K211459,"syngo.via MI WorkFlows, Scenium, syngo MBF","Siemens Medical Solutions USA, Inc.",Radiology,QIH
+06/02/21,K210404,Transpara 1.7.0,ScreenPoint Medical B.V.,Radiology,QDQ
+05/21/21,K202527,Zio ECG Utilization Software (ZEUS) System,"iRhythm Technologies, Inc.",Cardiovascular,DQK
+05/19/21,K210237,CINA CHEST,Avicenna.AI,Radiology,QAS
+05/19/21,K210187,Overjet Dental Assist,"Overjet, Inc.",Radiology,LLZ
+05/14/21,K201034,Syngo.CT CaScoring,"Siemens Medical Solutions USA, Inc.",Radiology,JAK
+05/13/21,K210426,HS40 Diagnostic Ultrasound System,"Samsung Medison Co., Ltd.",Radiology,IYN
+04/30/21,K210001,HYPER AiR,"Shanghai United Imaging Healthcare Co.,Ltd.",Radiology,KPS
+04/23/21,K203314,Cartesion Prime (PCD-1000A/3) V10.8,Canon Medical Systems Corporation,Radiology,KPS
+04/23/21,K203502,MEDO-Thyroid,MEDO DX Pte. Ltd.,Radiology,QIH
+04/21/21,K210556,Preview Shoulder,Genesis Software Innovations,Radiology,QIH
+04/20/21,K203610,Automatic Anatomy Recognition (AAR),"Quantitative Radiology Solutions, LLC",Radiology,QKB
+04/19/21,K203469,AI Segmentation,Varian Medical Systems,Radiology,MUJ
+04/16/21,K203517,Saige-Q,"DeepHealth, Inc.",Radiology,QFM
+04/14/21,K202992,"BriefCase, RIB Fractures Triage (RibFx)","Aidoc Medical, Ltd.",Radiology,QFM
+04/02/21,K202441,Eclipse II with Smart Noise Cancellation,"Carestream Health, Inc.",Radiology,MQB
+04/02/21,K202928,DV.Target,"DeepVoxel, Inc.",Radiology,QKB
+03/31/21,K203258,syngo.CT Lung CAD (Version VD20),Siemens Healthcare GmbH,Radiology,OEB
+03/31/21,K203443,"MAGNETOM Vida, MAGNETOM Sola, MAGNETOM Lumina, MAGNETOM Altea with syngo MR XA31A","Siemens Medical Solutions USA, Inc.",Radiology,LNH
+03/31/21,K210071,SIS System (Version 5.1.0),"Surgical Information Sciences, Inc.",Radiology,LLZ
+03/24/21,K203225,AquilionONE(TSX‐306A/3)V10.4withSpectralImagingSystem,CanonMedicalSystemsCorporation,Radiology,JAK
+03/23/21,K210209,Viz ICH,"Viz.Ai, Inc.",Radiology,QAS
+03/19/21,K203235,VBrain,Vysioneer Inc.,Radiology,QKB
+03/12/21,K202284,Oncospace,"Oncospace, Inc.",Radiology,MUJ
+03/12/21,K203822,ProFound AI Software V3.0,ICAD Inc.,Radiology,QDQ
+03/09/21,K203256,Imbio RV/LV Software,"Imbio, LLC",Radiology,QIH
+03/05/21,K202300,"Optellum Virtual Nodule Clinic, Optellum Software, Optellum Platform",Optellum Ltd,Radiology,POK
+03/04/21,K203323,"Vantage Galan 3T, MRT-3020, V6.0 with AiCE Reconstruction Processing Unit for MR",Canon Medical Systems Corporation,Radiology,LNH
+03/02/21,K203617,MaxFOV 2,"GE Medical Systems, LLC.",Radiology,JAK
+02/26/21,K203182,SubtleMR,"Subtle Medical, Inc.",Radiology,LLZ
+02/25/21,K202990,NinesMeasure,"Nines, Inc.",Radiology,LLZ
+02/25/21,K203578,"OTIS 2.1 Optical Coherence Tomography System, THiA Optical Coherence Tomography System","Perimeter Medical Imaging AI, Inc.",General And Plastic Surgery,NQQ
+02/19/21,K202212,Truplan,Circle Cardiovascular Imaging Inc.,Radiology,LLZ
+02/09/21,K203103,"Synapse 3D, Synapse 3D Base Tools v6.1",Fujifilm Corporation,Radiology,LLZ
+02/05/21,K210053,LVivo Software Application,DiA Imaging Analysis Ltd.,Radiology,QIH
+02/04/21,K203582,QUIBIM Precision Prostate (qp-Prostate),QUIBIM S.L.,Radiology,LLZ
+01/29/21,K201411,Visage Breast Density,Visage Imaging GmbH,Radiology,QIH
+01/15/21,K193271,UAI Easytriage-Rib,"Shanghai United Imaging Intelligence Co., Ltd.",Radiology,QFM
+01/15/21,K202767,"Vantage Orian 1.5T, MRT-1550, V6.0",Canon Medical Systems Corporation,Radiology,LNH
+01/14/21,K202700,ART-Plan,TheraPanacea,Radiology,QKB
+01/12/21,K201836,Aquilion Lightning (TSX-036A/7) V10.2 With AiCE-I,Canon Medical Systems Corporation,Radiology,JAK
+01/12/21,K203280,Hepatica V1 (Hepatica V1.0.0),Perspectum Ltd.,Radiology,LNH
+01/09/21,K200717,CLEWICU System (ClewICUserver and ClewICUnitor),Clew Medical Ltd.,Cardiovascular,QNL
+01/08/21,K203329,HeartFlow Analysis,"HeartFlow, Inc.",Cardiovascular,PJA
+01/07/21,K202414,BrainInsight,"Hyperfine Research, Inc.",Radiology,LLZ
+12/29/20,K203508,BriefCase,"Aidoc Medical, Ltd.",Radiology,QAS
+12/22/20,K202229,AI Metrics,"AI Metrics, LLC",Radiology,LLZ
+12/18/20,K201555,EchoGo Pro,Ultromics Ltd.,Radiology,POK
+12/10/20,K201745,Deep Learning Image Reconstruction For Gemstone Spectral Imaging,"GE Medical Systems, LLC",Radiology,JAK
+12/10/20,K203042,Aquilion Exceed LB (TSX-202A/3) V10.6 With AiCE-I,Canon Medical Systems Corporation,Radiology,JAK
+12/07/20,K201039,HepaFat-AI,Resonance Health Analysis Services Pty Ltd.,Radiology,LNH
+12/04/20,K202487,HealthJOINT,Zebra Medical Vision Ltd.,Radiology,LLZ
+11/20/20,K200873,HALO,NICo-Lab B.V.,Radiology,QAS
+11/20/20,K203169,Revolution Ascend,GE Healthcare Japan Corporation,Radiology,JAK
+11/20/20,K193287,CorInsights MRI,ADM Diagnostics,Radiology,LLZ
+11/18/20,K201019,Genius AI Detection,"Hologic, Inc.",Radiology,QDQ
+11/18/20,K201195,"syngo.via MI Workflows, syngo MBF","Siemens Medical Solutions USA, Inc.",Radiology,LLZ
+11/17/20,K193306,PROView,GE Medical Systems SCS,Radiology,LLZ
+11/12/20,K193289,"FastStroke, CT Perfusion 4D",GE Medical Systems SCS,Radiology,JAK
+11/06/20,K193562,AI-Rad Companion Organs RT,"Siemens Medical Solutions USA, Inc.",Radiology,QKB
+11/06/20,K200750,Neuro.Al Algorithm,"TeraRecon, Inc.",Radiology,LLZ
+10/30/20,K200323,Autocontour,"Radformation, Inc.",Radiology,QKB
+10/30/20,K202013,WRDensity by Whiterabbit.ai,Whiterabbit.ai Inc.,Radiology,QIH
+10/28/20,K202089,"Lenshooke X1 Pro Semen Quality Analyzer, Lenshooke X1 Pro Se Semen Quality Analyzer","Bonraybio Co., Ltd.",Hematology,POV
+10/16/20,K200595,"CellaVision DC-1, CellaVision DC-1 PPA",CellaVision AB,Hematology,JOY
+10/16/20,K201710,A View LCS,"Coreline Soft Co., Ltd.",Radiology,LLZ
+10/11/20,K202501,Quantib Prostate,Quantib BV,Radiology,LLZ
+10/09/20,K193631,"Stethee Pro 1, Stethee Pro Software System",M3DICINE Pty Ltd.,Cardiovascular,DQD
+10/02/20,K201301,X100 With Full Field Peripheral Blood Smear (Pbs) Application,Scopio Labs Ltd.,Hematology,JOY
+10/02/20,K202280,Cleerly Labs V2.0,"Cleerly, Inc.",Radiology,LLZ
+10/02/20,K202170,LiverMultiScan,Perspectum Ltd.,Radiology,LNH
+09/30/20,K192051,THINQ,CorticoMetrics LLC,Radiology,LLZ
+09/29/20,K202546,LVivo Seamless,DiA Imaging Analysis Ltd.,Radiology,QIH
+09/25/20,K201103,Xeleris V Processing And Review Systems,GE Healthcare,Radiology,LLZ
+09/24/20,K200569,Raystation,Raysearch Laboratories Ab (Publ),Radiology,MUJ
+09/18/20,K200852,"EchoPAC Software Only, EchoPAC Plug-In","GE Medical Systems Ultrasound and Primary Care Diagnostics, LLC",Radiology,LLZ
+09/18/20,K201992,Caption Guidance,Caption Health,Radiology,QJU
+09/16/20,K201298,VX1,Volta Medical,Cardiovascular,DQK
+09/16/20,K201369,AVA (Augmented Vascular Analysis),See-Mode Technologies Pte. Ltd.,Radiology,LLZ
+09/15/20,K192665,"Accelerate Pheno System, Accelerate Phenotest Bc Kit","Accelerate Diagnostics, Inc.",Microbiology,PRH
+09/09/20,K200708,Vivid iq,"GE Medical Systems Ultrasound and Primary Care Diagnostics, LLC",Radiology,IYN
+09/09/20,K200851,"Vivid T8, Vivid T9","GE Medical Systems Ultrasound and Primary Care Diagnostics, LLC",Radiology,IYN
+09/02/20,K200833,RX-1 Rhythm Express Remote Cardiac Monitoring System,VivaQuant Inc.,Cardiovascular,MLO
+08/26/20,K200714,AVIEW,"Coreline Soft Co., Ltd.",Radiology,LLZ
+08/26/20,K201020,BriefCase,"Aidoc Medical, Ltd.",Radiology,QAS
+08/14/20,K201632,Tomtec-Arena,Tomtec Imaging Systems Gmbh,Radiology,LLZ
+08/13/20,K201232,Limbus Contour,Limbus Ai Inc.,Radiology,LLZ
+08/13/20,K201444,syngo.via RT Image Suite,"Siemens Medical Solutions USA, Inc.",Radiology,MUJ
+08/07/20,K200990,Vida|Vision,Vida Diagnostics Inc.,Radiology,JAK
+08/07/20,K201310,Accipiolx,MaxQ Al Ltd.,Radiology,QAS
+08/04/20,K193210,HYPER DLR,"Shanghai United Imaging Healthcare Co., Ltd.",Radiology,KPS
+08/03/20,K200667,EyeArt,"Eyenuk, Inc",Ophthalmic,PIB
+07/30/20,K193283,AI-Rad Companion Prostate MR,Siemens Medical Solutions USA Inc,Radiology,QIH
+07/30/20,K193417,FractureDetect (FX),"Imagen Technologies, Inc.",Radiology,QBS
+07/23/20,K200743,Vivid E80/ Vivid E90/ Vivid E95,"GE Medical Systems Ultrasound and Primary Care Diagnostics, LLC",Radiology,IYN
+07/22/20,K200621,Caption Interpretation Automated Ejection Fraction Software,Caption Health,Radiology,QIH
+07/16/20,K200497,"Vivid S60N, Vivid S70N","GE Medical Systems Ultrasound and Primary Care Diagnostics, LLC",Radiology,IYN
+07/16/20,K200905,HealthMammo,Zebra Medical Vision Ltd.,Radiology,QFM
+07/14/20,K193097,"Vantage Orian 1.5T, MRT-1550, V6.0 With AiCE Reconstruction Processing Unit For MR",Canon Medical Systems Corporation,Radiology,LNH
+07/10/20,K192969,Ezra Plexo Software,Ezra AI Inc.,Radiology,QIH
+07/10/20,K193294,AI-Rad Companion Engine,"Siemens Medical Solutions USA, Inc.",Radiology,LLZ
+07/06/20,K193073,Deep Recon,"Shanghai United Imaging Healthcare Co., Ltd.",Radiology,JAK
+07/02/20,K192880,InferRead Lung CT.AI,"Beijing Infervision Technology Co.,Ltd.",Radiology,OEB
+07/02/20,K193252,Contour ProtégéAI,"MIM Software, Inc.",Radiology,QKB
+06/26/20,K200760,Rapid ASPECTS,ISchemaView Inc.,Radiology,POK
+06/24/20,K200855,CINA,AVICENNA.AI,Radiology,QAS
+06/23/20,K200232,LVivo Software Application,DiA Imaging Analysis Ltd,Radiology,QIH
+06/19/20,K193298,BriefCase,"Aidoc Medical, Ltd.",Radiology,QAS
+06/17/20,K193290,AI-Rad Companion Brain MR,"Siemens Medical Solutions USA, Inc.",Radiology,LLZ
+06/17/20,K200921,QER,Qure.Ai Technologies,Radiology,QAS
+06/11/20,K200356,MEDO ARIA,MEDO.ai,Radiology,QIH
+06/11/20,K200980,Auto 3D Bladder Volume Tool,"Butterfly Network, Inc.",Radiology,IYO
+06/03/20,K200974,QLAB Advanced Quantification Software,Philips Healthcare,Radiology,QIH
+06/01/20,K192601,uWS-MR,"Shanghai United Imaging Healthcare Co., Ltd.",Radiology,QIH
+05/12/20,K192901,HealthVCF,Zebra Medical Vision Ltd.,Radiology,QFM
+05/05/20,K193176,uMR 780,"Shanghai United Imaging Healthcare Co., Ltd.",Radiology,LNH
+05/05/20,K193220,AVIEW LCS,"Coreline Soft Co., Ltd",Radiology,LLZ
+04/21/20,K193351,NinesAI,"Nines, Inc.",Radiology,QAS
+04/16/20,K200755,Caption Guidance,"Caption Health, Inc.",Radiology,QJU
+04/13/20,K192167,CuraRad-ICH,CuraCloud Corp.,Radiology,QAS
+04/10/20,K193282,Signa Premier,"GE Healthcare (GE Medical Systems, LLC)",Radiology,LNH
+04/08/20,K193300,AIMI-Triage CXR PTX,"RADLogics, Inc.",Radiology,QFM
+03/31/20,K193087,Rapid ICH,ISchemaView Incorporated,Radiology,QAS
+03/26/20,K192732,Bodyguardian Remote Monitoring System,"Preventice Technologies, Inc.",Cardiovascular,DSI
+03/26/20,K193518,KOSMOS,"EchoNous, Inc.",Radiology,IYN
+03/25/20,K192437,Arterys MICA,Arterys Inc.,Radiology,QIH
+03/25/20,K192854,MammoScreen,Therapixel,Radiology,QDQ
+03/20/20,K193281,Hepatic VCAR,GE Medical Systems SCS,Radiology,JAK
+03/20/20,K200036,AI-ECG Tracker,"Shenzhen Carewell Electronics Co., Ltd.",Cardiovascular,DPS
+03/18/20,K193658,Viz ICH,"Viz.Ai, Inc.",Radiology,QAS
+03/16/20,K193267,Al-Rad Companion (Musculoskeletal),"Siemens Medical Solutions USA, Inc.",Radiology,JAK
+03/12/20,K192388,SonoVision Ultrasound Imaging System,"Tissue Differentiation Intelligence, LLC",Radiology,IYN
+03/09/20,K192574,"Vantage Galan 3T, MRT-3020, V6.0 With AiCE Reconstruction Processing Unit For MR",Canon Medical Systems Corporation,Radiology,LNH
+03/09/20,K193216,Syngo.CT Lung CAD,"Siemens Medical Solutions, Inc",Radiology,OEB
+03/05/20,K193229,Transpara,Screenpoint Medical B.V.,Radiology,QDQ
+03/04/20,K191550,Broncholab,Fluidda Inc.,Radiology,JAK
+02/28/20,K191556,Red Dot,Behold.AI Technologies Limited,Radiology,QFM
+02/28/20,K191928,AccuContour,Xiamen Manteia Technology Ltd.,Radiology,QKB
+02/28/20,K192962,icobrain-ctp,icometrix NV,Radiology,LLZ
+02/21/20,K192832,Aquilion Prime SP (TSX-303B8) V10.2 with AiCE-I,Canon Medical Systems Corporation,Radiology,JAK
+02/19/20,K192973,Densitas Densityai,"Densitas, Inc.",Radiology,LLZ
+02/14/20,K193248,"Biograph Vision, Biograph MCT Family Of PET/CTs","Siemens Medical Solutions USA, Inc.",Radiology,KPS
+02/13/20,K192828,Aquilion ONE (TSX-306A/3) V10.0 With Spectral Imaging System,Canon Medical Systems Corporation,Radiology,JAK
+02/12/20,K193178,Biograph Horizon PET/CT,"Siemens Medical Solution USA, Inc.",Radiology,KPS
+02/10/20,K192377,"Ethos Treatment Management, Ethos Treatment Planning, Ethos Radiotherapy System, Halcyon","Varian Medical Systems, Inc.",Radiology,IYE
+01/24/20,K193109,MRCAT Brain,Philips Medical Systems MR Finland,Radiology,MUJ
+01/17/20,K192415,Study Watch with Irregular Pulse Monitor,Verily Life Sciences LLC,Cardiovascular,DXH
+01/16/20,K192956,Auto Positioning,"GE Hangwei Medical Systems, Co., Ltd.",Radiology,JAK
+01/15/20,K191125,ADAS 3D,Galgo Medical S.L,Radiology,LLZ
+01/15/20,K192004,Eko Analysis Software,Eko Devices Inc,Cardiovascular,MWI
+01/02/20,K183089,Air Next,NuvoAir AB,Anesthesiology,BZG
+12/20/19,K191647,Qlab Advanced Quantification Software,Philips Healthcare,Radiology,QIH
+12/20/19,K192383,BriefCase,"Aidoc Medical, Ltd.",Radiology,QAS
+12/17/19,K192763,Syngo.CT CaScoring,"Siemens Medical Solutions USA, Inc.",Radiology,JAK
+12/13/19,K192531,QyScore Software,Qynapse,Radiology,LLZ
+12/13/19,K193170,Deep Learning Image Reconstruction,GE Healthcare Japan Corporation,Radiology,JAK
+12/13/19,K192130,icobrain,icometrix NV,Radiology,LLZ
+12/11/19,K192571,NemoScan,Software Nemotec S.L.,Radiology,LLZ
+12/10/19,K192287,Transpara,Screenpoint Medical B.V.,Radiology,QDQ
+12/09/19,K192442,FFRangio,CathWorks Ltd,Cardiovascular,QEK
+12/07/19,K192279,PhantomMSK Trauma,OrthoGrid Systems Inc.,Radiology,LLZ
+11/27/19,K192945,7D Surgical System Cranial Biopsy and Ventricular Catheter Placement Application,7D Surgical Inc.,Neurology,HAW
+11/26/19,K192320,HealthCXR,Zebra Medical Vision Ltd.,Radiology,QFM
+11/25/19,K190529,SOZO,ImpediMed Limited,Gastroenterology-Urology,QJB
+11/19/19,K191278,RSI-MRI+,Multimodal Imaging Services Corporation (Dba HealthLytix),Radiology,LLZ
+11/13/19,K191171,EchoGo Core,Ultromics Ltd.,Radiology,QIH
+11/07/19,K191026,MEDIP PRO,"MEDICAL IP Co., Ltd.",Radiology,LLZ
+11/05/19,K190868,Cleerly Labs,Cleerly Inc,Radiology,LLZ
+11/05/19,K192109,Koala,IB Lab Gmbh,Radiology,LLZ
+11/04/19,K190013,WellDoc BlueStar,"WellDoc, Inc",General Hospital,MRZ
+11/01/19,K190334,MIMOSA Imager,MIMOSA Diagnostics Inc.,General And Plastic Surgery,MUD
+11/01/19,K190898,Sight OLO,Sight Diagnostics Ltd.,Hematology,GKZ
+10/18/19,K183274,"RTHawk, HeartVista Cardiac Package","HeartVista, Inc.",Radiology,LNH
+10/17/19,K192455,Merge PACS,Merge Healthcare Incorporated,Radiology,LLZ
+10/16/19,K191493,Ventripoint Medical System Plus (VMS+) 3.0,Ventripoint Diagnostics Ltd.,Radiology,LLZ
+10/04/19,K191713,CS-Series-FP Radiographic / Fluoroscopic Systems With Optional CA-100S / FluoroShield¿ (ROI Assembly),"Omega Medical Imaging, LLC",Radiology,JAA
+10/04/19,K191994,ProFound AI Software V2.1,ICAD Inc.,Radiology,QDQ
+09/18/19,K192065,Syngo.Via RT Image Suite,"Siemens Medical Solutions USA, Inc.",Radiology,MUJ
+09/16/19,K191688,SubtleMR,Subtle Medical Inc.,Radiology,LLZ
+09/13/19,K192304,SIS Software Version 3.6.0,"Surgical Information Sciences, Inc.",Radiology,LLZ
+09/11/19,K183370,PeraMobile and PeraWatch,"PeraHealth, Inc.",Cardiovascular,MWI
+09/11/19,K190815,Brainscope TBI,"BrainScope Company, Inc.",Neurology,PIW
+09/10/19,K183268,AI-Rad Companion (Cardiovascular),"Siemens Medical Solutions USA, Inc.",Radiology,JAK
+09/04/19,K191179,Myo Plus,Otto Bock Healthcare Products GmbH,Neurology,GXY
+08/29/19,K183489,D2P,"3D Systems, Inc.",Radiology,LLZ
+08/29/19,K192107,Clarius Ultrasound Scanner,Clarius Mobile Health Corp.,Radiology,IYN
+08/15/19,K183282,Biovitals Analytics Engine,Biofourmis Singapore Pte. Ltd,Cardiovascular,PLB
+08/15/19,K190925,HeartfFow FFRct Analysis,"HeartFlow, Inc.",Cardiovascular,PJA
+08/12/19,K183182,Critical Care Suite,"GE Medical Systems, LLC",Radiology,QFM
+08/05/19,K191262,ABSI,EXINI Diagnostics AB,Radiology,LLZ
+07/26/19,K182384,ACR | LAB Urine Analysis Test System,Healthy.Io Ltd,Clinical Chemistry,JFY
+07/26/19,K183271,AI-Rad Companion (Pulmonary),"Siemens Medical Solutions USA, Inc.",Radiology,JAK
+07/19/19,K182798,KIDScore D3,Vitrolife A/S,Obstetrics And Gynecology,PBH
+07/12/19,K191585,INtuition-Structural Heart Module,TeraRecon Inc.,Radiology,LLZ
+07/10/19,K182875,DeepCT,Deep01 Limited,Radiology,QAS
+07/10/19,K183322,PhysIQ Heart Rhythm and Respiratory Module,"PhysIQ, Inc",Cardiovascular,DPS
+07/08/19,K191384,RayCare 2.3,RaySearch Laboratories AB (Publ),Radiology,MUJ
+07/05/19,K182901,Aquilion Precision (TSX-304A/1 And /2) V8.8 With AiCE,Canon Medical Systems Corporation,Radiology,JAK
+07/03/19,K190442,Koios DS For Breast,"Koios Medical, Inc.",Radiology,POK
+06/27/19,K190017,Livermultiscan (LMSv3),Perspectum Diagnostics Ltd,Radiology,LNH
+06/25/19,K191194,CLARUS,"Carl Zeiss Meditec, Inc",Ophthalmic,QER
+06/19/19,K190387,Raystation,Raysearch Laboratories Ab (Publ),Radiology,MUJ
+06/13/19,K183460,ClariCT AI,ClariPI Inc.,Radiology,LLZ
+06/13/19,K190424,Healthich,Zebra Medical Vision Ltd.,Radiology,QAS
+06/12/19,K183046,Aquilion ONE (TSX-305A/6) V8.9 With AiCE,Canon Medical Systems Corporation,Radiology,JAK
+05/31/19,K190896,BriefCase,"Aidoc Medical, Ltd.",Radiology,QAS
+05/24/19,K191083,COMPLETE CONTROL System Gen2,"Coapt, LLC",Neurology,GXY
+05/21/19,K183646,"Acumen Hypotension Prediction Index - EV1000 Clinical Platform, Acumen Hypotension Prediction Index - Hemosphere Advanced Monitoring Platform, Acumen Hypotension Prediction Index, Hemosphere Advanced Monitoring Platform - Pressure","Edwards Lifeciences, LLC",Cardiovascular,QAQ
+05/15/19,K183648,APAS Independence with Urine Analysis Module,Clever Culture Systems AG,Microbiology,PPU
+05/13/19,K190764,SurgicalAR,"MEDIVIS, Inc.",Radiology,LLZ
+05/06/19,K190362,HealthPNX,Zebra Medical Vision Ltd.,Radiology,QFM
+04/22/19,K182513,FluChip-8G Influenza A+B Assay,"InDevR, Inc.",Microbiology,OZE
+04/18/19,K183593,Lung Vision System,Body Vision Medical Ltd.,Radiology,LLZ
+04/17/19,K181988,EMurmur ID,CSD Labs GmbH,Cardiovascular,DQD
+04/15/19,K190072,Briefcase,"Aidoc Medical, Ltd.",Radiology,QAS
+04/12/19,K183202,Deep Learning Image Reconstruction,"GE Medical Systems, LLC",Radiology,JAK
+04/08/19,K183204,Bone VCAR (BVCAR),GE Medical Systems SCS,Radiology,JAK
+03/29/19,K181352,Loop System,"Spry Health, Inc.",Cardiovascular,DQA
+03/19/19,K183019,SIS Software Version 3.3.0,"Surgical Information Sciences, Inc.",Radiology,LLZ
+03/11/19,K181823,KardiaAI,"AliveCor, Inc.",Cardiovascular,DQK
+03/08/19,K183285,Cmtriage,"Curemetrix, Inc",Radiology,QFM
+03/07/19,K182344,RhythmAnalytics,Biofourmis Singapore Pte. Ltd.,Cardiovascular,DQK
+02/16/19,K183704,Rx-1 Rhythm Express Remote Cardiac Monitoring System,Vivaquant Inc.,Cardiovascular,DXH
+02/04/19,K181916,D-Nav System,"Hygieia, Inc",General Hospital,NDC
+02/01/19,K183272,AI Rad Companion (Engine),"Siemens Medical Solutions USA, Inc.",Radiology,LLZ
+01/18/19,K183231,SIGNA Premier,"GE Medical Systems, LLC",Radiology,LNH
+01/17/19,K182456,Study Watch,Verily Life Sciences Llc,Cardiovascular,DXH
+01/09/19,K183133,MRCP+ V1.0,Perspectum Diagnostics Ltd,Radiology,LLZ
+12/28/18,K180867,AmCAD-UO,AmCad BioMed Corporation,Radiology,LLZ
+12/27/18,K182130,ISchemaView RAPID,"ISchemaView, Inc.",Radiology,LLZ
+12/27/18,K182564,Quantib ND,Quantib BV,Radiology,LLZ
+12/21/18,K183012,VascuCAP,Elucid Bioimaging Inc.,Radiology,LLZ
+12/20/18,K181861,Embrace,Empatica Srl,Neurology,POS
+12/19/18,K182149,FFRangio System,CathWorks Ltd,Cardiovascular,QEK
+12/14/18,K182419,Centricity Universal Viewer,GE Healthcare,Radiology,LLZ
+12/14/18,K182790,Cardio-TriTest v6.5,Cardio-Phoenix Inc.,Cardiovascular,DPS
+12/06/18,K173749,AMRA Profiler,AMRA Medical AB,Radiology,LNH
+12/06/18,K182373,PowerLook Tomo Detection V2 Software,ICAD Inc.,Radiology,QDQ
+12/06/18,K182035,FFRct v2.18,"HeartFlow, Inc.",Cardiovascular,PJA
+11/30/18,K182218,FerriSmart Analysis System,Resonance Health Analysis Service Pty Ltd.,Radiology,PCS
+11/30/18,K182336,SubtlePET,"Subtle Medical, Inc.",Radiology,KPS
+11/29/18,K182181,Persyst 14 EEG Review And Analysis Software,Persyst Development Corporation,Neurology,OMB
+11/21/18,K181704,Transpara,Screenpoint Medical Bv,Radiology,QDQ
+11/20/18,K181247,Vitrea CT Brain Perfusion,"Vital Images, Inc.",Radiology,LLZ
+11/19/18,K180432,AI-ECG Platform,"Shenzhen Carewell Electronics., Ltd.",Cardiovascular,DQK
+11/16/18,K180343,"LensHooke X1 Pro Semen Quality Analyzer, LensHooke X1 Semen Quality Analyzer","Bonraybio Co., Ltd.",Hematology,POV
+11/06/18,K181939,icobrain,icometrix NV,Radiology,LLZ
+11/05/18,K181288,Athelas One,Athelas Inc.,Hematology,GKZ
+11/02/18,K182616,"NvisionVLE Imaging System, NvisionVLE Optical Probe, NvisionVLE Inflation System","NinePoint Medical, Inc.",General And Plastic Surgery,NQQ
+10/26/18,K182177,Accipiolx,MaxQ-Al Ltd.,Radiology,QAS
+10/25/18,K181685,"Vivid E80, Vivid E90, Vivid E95","GE Medical Systems Ultrasound and Primary Care Diagnostics, LLC",Radiology,IYN
+10/17/18,K182034,Arterys MICA,Arterys Inc.,Radiology,LLZ
+10/09/18,K181892,Ziostation2,"Ziosoft, Inc.",Radiology,LLZ
+10/05/18,K182112,Sense System with IBT Electrodes,"Infinite Biomedical Technologies, LLC",Neurology,GXY
+09/28/18,K173872,FibriCheck,Qompium NV,Cardiovascular,DXH
+09/28/18,K181771,RightEye Vision System,"RightEye, LLC",Ophthalmic,GWN
+09/21/18,K182310,Volpara Imaging Software,Volpara Health Technologies Limited,Radiology,LLZ
+08/29/18,K181502,"Zio AT ECG Monitoring System, Zeus System","IRhythm Technologies, Inc.",Cardiovascular,DQK
+08/01/18,K180647,BriefCase,"Aidoc Medical, Ltd.",Radiology,QAS
+07/23/18,K173444,Quantitative Total Extensible Imaging (QTxi),"AIQ Solutions, Inc.",Radiology,LLZ
+07/18/18,K173327,DIP/U.S. Urine Analysis Test System,Healthy.io Ltd,Clinical Chemistry,JIL
+07/10/18,K181572,Workflow Box,Mirada Medical Ltd.,Radiology,QKB
+07/10/18,K181574,Uscan,"EchoNous, Inc.",Radiology,IYO
+06/29/18,K180038,NuVasive Pulse System,"NuVasive, Incorporated",Orthopedic,OLO
+06/26/18,K173574,DenSeeMammo,STATLIFE,Radiology,LLZ
+06/14/18,K173780,EchoMD Automated Ejection Fraction Software,"Bay Labs, Inc.",Radiology,LLZ
+06/13/18,K172983,HealthCCS,Zebra Medical Vision Ltd.,Radiology,JAK
+06/05/18,K173821,LungQ Software,Thirona Corporation,Radiology,JAK
+05/25/18,K180163,TransEnterix Senhance Surgical System,"TransEnterix, Inc",General And Plastic Surgery,NAY
+05/14/18,K173810,Ventripoint Medical System Plus (VMS+),"Ventripoint Diagnostics, Ltd.",Radiology,IYN
+05/14/18,K180799,Clarius Ultrasound Scanner,Clarius Mobile Health Corp.,Radiology,IYN
+05/02/18,K180599,Venue,"GE Medical Systems Ultrasound and Primary Care Diagnostics, LLC",Radiology,IYN
+05/01/18,K172959,PeraServer and PeraTrend,"PeraHealth, Inc.",Cardiovascular,MWI
+04/20/18,K180161,Viz CTP,"Viz.ai, Inc.",Radiology,LLZ
+04/16/18,K180126,SOZO,ImpediMed Limited,Gastroenterology-Urology,OBH
+04/05/18,K180589,DR 800 With MUSICA Dynamic,Agfa HealthCare N.V.,Radiology,JAA
+03/09/18,K173939,Quantib Brain,Quantib BV,Radiology,LLZ
+03/08/18,K173605,IQMR,Medic Vision - Imaging Solutions Ltd,Radiology,LLZ
+02/23/18,K170540,DM-Density,"Densitas, Inc.",Radiology,LLZ
+02/08/18,K180091,UNID Spine Analyzer,Medicrea International,Radiology,LLZ
+01/25/18,K173542,Arterys Oncology Dl,Arterys Inc.,Radiology,LLZ
+01/12/18,K173588,Illumeo System,"Philips Medical Systems Technologies, Ltd",Radiology,LLZ
+01/11/18,K171122,CEREC Ortho Software,Dentsply Sirona,Dental,PNN
