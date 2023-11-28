@@ -19,10 +19,10 @@ def extract_text(path, text_path):
     logging.info(f"[Text extraction step]: Started {text_path.split('_', 1)[1]}")
 
     files = os.listdir(path)
-    print(len(files))
+
     logging.info(f"Number of PDFS {len(files)}")
     output_path = 'TEXTS_PMAS' if text_path.split("_", 1)[1] == "PMAS" else "TEXTS_501K"
-    print(output_path)
+
     logging.info(f"Number of TEXT files {(len(os.listdir(output_path)))}")
 
     if len(os.listdir(output_path)) < (len(files)):
