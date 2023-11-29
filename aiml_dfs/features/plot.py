@@ -1,6 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import os
 
 # Load the updated data
 df = pd.read_csv('./devices_features.csv', delimiter=',')
@@ -13,48 +14,63 @@ gmp_exempt_counts = df['gmp_exempt_flag'].value_counts()
 implant_counts = df['implant_flag'].value_counts()
 life_sustain_counts = df['life_sustain_flag'].value_counts()
 
-# Setting up the figure for multiple plots
-plt.figure(figsize=(20, 8))
 
-# Pie Chart for Device Class Distribution
-plt.subplot(2, 3, 1)
-device_class_counts.plot(kind='pie', autopct='%1.1f%%', startangle=140, colors=sns.color_palette("Set2"))
-plt.title('Device Class Distribution', fontsize=16)
-plt.ylabel('')  # Hiding the y-label for Pie chart
+# Function to create and save individual plots with APA style
+def create_and_save_plot_apa(plot_func, title, filename, legend=None, xlabel=None, ylabel=None):
+    plt.figure(figsize=(8, 6))
+    plt.title(title, fontsize=14, fontstyle='italic')
+    plot_func()
+    if legend:
+        plt.legend(legend)
+    if xlabel:
+        plt.xlabel(xlabel)
+    if ylabel:
+        plt.ylabel(ylabel)
 
-# Count Plot for Medical Specialty Analysis
-plt.subplot(2, 3, 2)
-sns.countplot(y='medical_specialty', data=df, order=df['medical_specialty'].value_counts().index, palette="Set2")
-plt.title('Medical Specialty Distribution', fontsize=16)
-plt.xlabel('Count', fontsize=14)
-plt.ylabel('Medical Specialty', fontsize=14)
+    save_path = os.path.join(os.path.expanduser('./initial_plots/'), f'{filename}.png')
+    plt.savefig(save_path, dpi=300, bbox_inches='tight')
+    plt.close()
 
-# Donut Chart for Third Party Review Eligibility
-plt.subplot(2, 3, 3)
-third_party_review_counts.plot(kind='pie', autopct='%1.1f%%', startangle=90, colors=sns.color_palette("coolwarm"), wedgeprops=dict(width=0.3))
-plt.title('Third Party Review Eligibility', fontsize=16)
-plt.ylabel('')
 
-# Donut Chart for GMP Exemption Status
-plt.subplot(2, 3, 4)
-gmp_exempt_counts.plot(kind='pie', autopct='%1.1f%%', startangle=90, colors=sns.color_palette("coolwarm"), wedgeprops=dict(width=0.3))
-plt.title('GMP Exemption Status', fontsize=16)
-plt.ylabel('')
+# Creating each plot as an independent figure
+create_and_save_plot_apa(
+    lambda: device_class_counts.plot(kind='pie', autopct='%1.1f%%', startangle=140, colors=sns.color_palette("Set2")),
+    'Figure 1: Device Class Distribution',
+    'device_class_distribution_apa')
 
-# Donut Chart for Implant Flag Distribution
-plt.subplot(2, 3, 5)
-implant_counts.plot(kind='pie', autopct='%1.1f%%', startangle=90, colors=sns.color_palette("coolwarm"), wedgeprops=dict(width=0.3))
-plt.title('Implant Flag Distribution', fontsize=16)
-plt.ylabel('')
+create_and_save_plot_apa(
+    lambda: sns.countplot(y='medical_specialty', data=df, order=df['medical_specialty'].value_counts().index, palette="Set2"),
+    'Figure 2: Medical Specialty Distribution',
+    'medical_specialty_distribution_apa',
+    ylabel='Medical Specialty',
+    xlabel='Count')
 
-# Donut Chart for Life-Sustaining Flag Distribution
-plt.subplot(2, 3, 6)
-life_sustain_counts.plot(kind='pie', autopct='%1.1f%%', startangle=90, colors=sns.color_palette("coolwarm"), wedgeprops=dict(width=0.3))
-plt.title('Life-Sustaining Flag Distribution', fontsize=16)
-plt.ylabel('')
+create_and_save_plot_apa(
+    lambda: third_party_review_counts.plot(kind='pie', autopct='%1.1f%%', startangle=90, colors=sns.color_palette("coolwarm"), wedgeprops=dict(width=0.3)),
+    'Figure 3: Third Party Review Eligibility',
+    'third_party_review_eligibility_apa')
 
-# Adjust layout for better spacing and visibility
-plt.tight_layout()
+create_and_save_plot_apa(
+    lambda: gmp_exempt_counts.plot(kind='pie', autopct='%1.1f%%', startangle=90, colors=sns.color_palette("coolwarm"), wedgeprops=dict(width=0.3)),
+    'Figure 4: GMP Exemption Status',
+    'gmp_exemption_status_apa')
 
-# Show the plots
-plt.show()
+create_and_save_plot_apa(
+    lambda: implant_counts.plot(kind='pie', autopct='%1.1f%%', startangle=90, colors=sns.color_palette("coolwarm"), wedgeprops=dict(width=0.3)),
+    'Figure 5: Implant Flag Distribution',
+    'implant_flag_distribution_apa')
+
+create_and_save_plot_apa(
+    lambda: life_sustain_counts.plot(kind='pie', autopct='%1.1f%%', startangle=90, colors=sns.color_palette("coolwarm"), wedgeprops=dict(width=0.3)),
+    'Figure 6: Life-Sustaining Flag Distribution',
+    'life_sustaining_flag_distribution_apa')
+
+# File names of the saved APA style plots
+saved_files_apa = [
+    'device_class_distribution_apa.png',
+    'medical_specialty_distribution_apa.png',
+    'third_party_review_eligibility_apa.png',
+    'gmp_exemption_status_apa.png',
+    'implant_flag_distribution_apa.png',
+    'life_sustaining_flag_distribution_apa.png'
+]
