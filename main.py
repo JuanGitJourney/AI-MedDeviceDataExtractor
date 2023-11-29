@@ -90,10 +90,10 @@ if __name__ == '__main__':
         # scrap(month, year, htmls_path, pdfs_pmas_path, pdfs_501k_path, texts_pmas_path, texts_501ks_path)
 
         # Filtering AI-related devices from texts
-        ai_devices_list = filter_ai(texts_pmas_path, texts_501ks_path)
+        # ai_devices_list = filter_ai(texts_pmas_path, texts_501ks_path)
 
         #  Extracting metadata and studying features
-        extract_metadata(ai_devices_list, htmls_path, ai_htmls_path)
+
         get_study_features()
         print("Process completed successfully.")
 
