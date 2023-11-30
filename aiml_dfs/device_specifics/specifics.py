@@ -1,7 +1,8 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-
+from collections import Counter
+import re
 
 # Function to add a title below the plot for APA 7 compliance
 def add_title_below_plot(title, fig):
@@ -18,6 +19,14 @@ data['decision_date'] = pd.to_datetime(data['decision_date'])
 # Calculating 'decision time' in days
 data['decision_time'] = (data['decision_date'] - data['date_received']).dt.days
 
+# Group data by year (or choose another time unit) and calculate the average decision time
+grouped_data = data.groupby(data['date_received'].dt.to_period("Q"))['decision_time'].mean()
+
+# Convert the group by object to a DataFrame
+grouped_data_df = grouped_data.reset_index()
+grouped_data_df['date_received'] = grouped_data_df['date_received'].dt.to_timestamp()
+
+
 # Analyzing the 'device_classification_name' column
 device_class_counts = data['device_classification_name'].value_counts()
 
@@ -29,22 +38,30 @@ split_class_name_counts = split_class_names.value_counts()
 plt.rcParams['font.family'] = 'Times New Roman'
 plt.rcParams['font.size'] = 12
 
-# Increasing plot size and adjusting layout for clarity
+plt.figure(figsize=(12, 8))
+sns.lineplot(x='date_received', y='decision_time', data=grouped_data_df)
+plt.xlabel('Year')
+plt.ylabel('Average Decision Time (days)')
+plt.title('Trend of Decision Time Over Years')
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.savefig('figure0_decision_time_trend.png')
+
 plt.figure(figsize=(12, 8))
 sns.histplot(data['decision_time'], bins=30, kde=True)
 plt.xlabel('Decision Time (days)')
 plt.ylabel('Frequency')
 plt.tight_layout()
 add_title_below_plot('Figure 1. Distribution of Decision Times', plt.gcf())
-plt.show()
+plt.savefig('figure1_decision_times.png')  # Saving the plot
 
 plt.figure(figsize=(12, 8))
-sns.barplot(x=device_class_counts.head(10).values, y=device_class_counts.head(10).index)
+sns.barplot(x=device_class_counts.head(20).values, y=device_class_counts.head(20).index)
 plt.xlabel('Count')
 plt.ylabel('Device Classification')
 plt.tight_layout()
 add_title_below_plot('Figure 2. Top 10 Device Classifications', plt.gcf())
-plt.show()
+plt.savefig('figure2_top_device_classifications.png')  # Saving the plot
 
 plt.figure(figsize=(12, 8))
 sns.barplot(x=split_class_name_counts.head(10).values, y=split_class_name_counts.head(10).index)
@@ -52,7 +69,7 @@ plt.xlabel('Count')
 plt.ylabel('Terms')
 plt.tight_layout()
 add_title_below_plot('Figure 3. Top 10 Terms in Device Classifications After Splitting', plt.gcf())
-plt.show()
+plt.savefig('figure3_top_10_device_classifications_after_splitting.png')  # Saving the plot
 
 # Grouping the data by 'date_received' and calculating the average 'decision_time'
 time_series_data = data.groupby('date_received')['decision_time'].mean().reset_index()
@@ -63,7 +80,7 @@ sns.lineplot(x='date_received', y='decision_time', data=time_series_data)
 plt.xlabel('Date Received')
 plt.ylabel('Average Decision Time (days)')
 plt.title('Time Series of Average Decision Time')
-plt.show()
+plt.savefig('figure4_time_series_of_average_decision_time.png')  # Saving the plot
 
 # Calculating the number of devices per year
 data['year'] = data['date_received'].dt.year
@@ -76,4 +93,44 @@ plt.xlabel('Year')
 plt.ylabel('Number of Devices')
 plt.title('Number of Devices per Year')
 plt.xticks(rotation=45)
-plt.show()
+# plt.show()
+
+# Custom list of words to ignore
+ignore_words = {'for', 'and', 'of', 'the', 'to', 'in', 'a', 'with', 'on', 'by', 'an', 'is', 'as', 'from', 'that'}
+
+
+# Modified function to clean, split text into words, treat "x-ray" as a single word, and ignore specific words
+def clean_and_split_modified(text):
+    # Replace 'x-ray' with 'xray' to treat it as a single word
+    text = text.lower().replace('x-ray', 'xray')
+
+    # Remove special characters (except commas) and split into words
+    words = re.findall(r'\b\w+\b', text)
+
+    # Filter out ignored words
+    words = [word for word in words if word not in ignore_words]
+    return words
+
+
+# Apply this function to each row in the 'device_classification_name' column and accumulate words
+all_words_modified = []
+for name in data['device_classification_name']:
+    all_words_modified.extend(clean_and_split_modified(name))
+
+# Count the frequency of each word
+word_counts_modified = Counter(all_words_modified)
+
+# Display the top 20 most common words
+common_words_modified = dict(word_counts_modified.most_common(20))
+
+# Create a bar plot
+plt.figure(figsize=(12, 8))
+plt.bar(common_words_modified.keys(), common_words_modified.values())
+plt.xticks(rotation=45, ha="right")
+plt.xlabel('Words')
+plt.ylabel('Frequency')
+plt.title('Top 20 Most Common Words in Device Classification Names (Adjusted)')
+plt.tight_layout()
+
+
+
