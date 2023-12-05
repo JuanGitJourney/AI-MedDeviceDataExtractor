@@ -78,7 +78,7 @@ if __name__ == '__main__':
     """
     Main function to execute the workflow.
     """
-    month, year = 10, 2018
+    month, year = 1, 2015
     htmls_path = 'HTMLS/'
     ai_htmls_path = 'AIML_HTMLS'
     pdfs_pmas_path = 'PDFS_PMAS'

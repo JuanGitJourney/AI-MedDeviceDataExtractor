@@ -1,8 +1,7 @@
 import os.path
 
 import pandas as pd
-import re
-import numpy as np
+
 
 
 def get_classification_features(product_code) -> dict:
