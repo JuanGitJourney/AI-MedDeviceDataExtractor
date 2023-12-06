@@ -12,7 +12,7 @@ def scrap(start_month, start_year, htmls_path, pdfs_path_pmas, pdfs_path_501ks, 
     # download_html(links, htmls_path)
 
     # Second part: Pull PDFS from HTMLS
-    parse_metadata_from_html(htmls_path, True, start_month, start_year)
+    # parse_metadata_from_html(htmls_path, True, start_month, start_year)
 
     # Third part: Extract text from pdfs and store in .txt files
     # extract_text(pdfs_path_pmas, texts_path_pmas)
