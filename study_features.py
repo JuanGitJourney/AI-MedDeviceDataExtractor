@@ -3,7 +3,6 @@ import os.path
 import pandas as pd
 
 
-
 def get_classification_features(product_code) -> dict:
     classification_df = pd.read_csv('raw_files/foiclass.csv',  delimiter='|')
     device_class = classification_df[classification_df['PRODUCTCODE'] == product_code]['DEVICECLASS'].iloc[0]
@@ -31,30 +30,25 @@ def get_classification_features(product_code) -> dict:
     }
 
 
-def get_study_features():
+def get_study_features_joined_database():
     device_features = []
     device_list = []
     product_codes = []
 
-    input_csvs = ['aiml_dfs/aiml_501ks.csv', 'aiml_dfs/aiml_pmas.csv']
+    input_xls_files = 'aiml_dfs/curated_databases/final_database.xlsx'
 
-    for index, i_csv in enumerate(input_csvs):
-        # Set product code column name according to file
-        if i_csv == 'aiml_dfs/aiml_501ks.csv':
-            search_term = 'classification_product_code'
-        else:
-            search_term = 'product_code'
+    search_term = 'classification_product_code'
 
-        if os.path.getsize(input_csvs[index]) > 5:
-            df = pd.read_csv(input_csvs[index])
-            names_list = df['query_id'].tolist()
+    if os.path.getsize(input_xls_files) > 5:
+        df = pd.read_excel(input_xls_files, engine='openpyxl')
+        names_list = df['query_id'].tolist()
 
-            for device in names_list:
-                product_code = df[df['query_id'] == device][search_term].iloc[0]
-                classification_features = get_classification_features(product_code.upper())
-                device_features.append(classification_features)  # Storing the entire dictionary
-                product_codes.append(product_code)
-                device_list.append(device)
+        for device in names_list:
+            product_code = df[df['query_id'] == device][search_term].iloc[0]
+            classification_features = get_classification_features(product_code.upper())
+            device_features.append(classification_features)  # Storing the entire dictionary
+            product_codes.append(product_code)
+            device_list.append(device)
 
     df = pd.DataFrame({
         'query_id': device_list,
@@ -72,4 +66,5 @@ def get_study_features():
 
     })
 
-    df.to_csv('aiml_dfs/features/devices_features.csv', index=False)
+    # Save the DataFrame to an Excel file
+    df.to_excel('aiml_dfs/curated_databases/devices_features.xls', index=False)
