@@ -1,8 +1,9 @@
-FDA AI Device Scraper README
-Project Overview
+**FDA AI Device Scraper README**
+**Project Overview**
 
 This project automates the process of scraping, downloading, and extracting data from FDA-approved medical devices, focusing on AI and machine learning-based devices. It involves several steps from downloading HTML and PDF files, extracting text, and analyzing specific features.
-File Descriptions
+
+**File Descriptions**
 
     main.py: This is the entry point of the project. It orchestrates the workflow for scraping HTML and PDF files, extracting texts, filtering AI devices, and analyzing their features.
 
@@ -16,7 +17,7 @@ File Descriptions
 
     study_features.py: Analyzes the classified features of the AI devices, including their device class, medical specialty, and other relevant features.
 
-Workflow
+**Workflow**
 
     Scraping HTML and PDF Files: The scrap function in main.py orchestrates the scraping of HTML files and downloading of PDF files for a given start month and year.
 
@@ -26,18 +27,18 @@ Workflow
 
     Metadata Extraction and Feature Analysis: Extracts metadata from the filtered AI devices and analyzes their features.
 
-Prerequisites
+**Prerequisites**
 
     Python 3.x
     Required Python packages: requests, bs4, pandas, PyPDF2, fitz, pytesseract, Pillow, pdf2image
 
-How to Run
+**How to Run**
 
     Set the start month and year in main.py.
     Run main.py to execute the entire workflow.
     Check the logs and output files for results and errors.
 
-Logging
+**Logging**
 
 Logs are maintained in fda_downloader.log, tracking the progress and any issues encountered during the execution.
 Output
