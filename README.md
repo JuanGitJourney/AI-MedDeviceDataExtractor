@@ -46,6 +46,7 @@ Output
 The project generates multiple output files, including CSV and Excel files, containing scraped data, filtered AI device lists, and analyzed features. These are stored in designated directories such as aiml_dfs and TEXTS_PMAS.
 
 **Notes**
+
     Ensure all required directories (HTMLS/, PDFS_PMAS/, etc.) are created before running the script.
     Modify the paths in the scripts if different directory structures are used.
     Exception handling is implemented to manage errors during execution.
